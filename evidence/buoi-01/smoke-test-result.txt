@@ -1,0 +1,16 @@
+SMOKE TEST RESULT - Session 01
+==============================
+Date: 2026-05-06
+Student: Nguyen Huu Nham - 1771020520
+OS: Windows 11 (WSL2 + Docker Desktop)
+
+[PASS] git --version       -> git version 2.47.1
+[PASS] docker --version    -> Docker version 29.1.3
+[PASS] docker compose version -> Docker Compose version v2.40.3-desktop.1
+[PASS] node --version      -> v24.15.0
+[PASS] python --version    -> Python 3.12.6
+[PASS] docker run --rm hello-world -> Hello from Docker!
+[PASS] All required Docker images pulled successfully
+[PASS] Mini-stack Docker Compose started successfully
+
+All smoke tests PASSED.

@@ -1,0 +1,11 @@
+DOCKER IMAGE LIST
+=================
+Date: 2026-05-06
+Student: Nguyen Huu Nham - 1771020520
+
+REPOSITORY                    TAG       IMAGE ID       CREATED        SIZE
+hello-world                   latest    d2c94e258dcb   2 years ago    13.3kB
+nginx                         alpine    2bc7edbc3cf2   3 weeks ago    46.8MB
+postgres                      15        40b1c52dec5a   3 weeks ago    412MB
+redis                         7-alpine  dc21ae6d9c79   3 weeks ago    44.5MB
+rabbitmq                      3-management 45f9a7ba1cad 4 weeks ago  257MB
